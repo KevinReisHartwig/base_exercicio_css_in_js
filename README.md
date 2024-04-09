@@ -10,7 +10,7 @@
 ## 2) Fazer um fork do repositório do projeto e enviar o código atualizado para o Github. Para isso, assista ao vídeo "Como fazer um fork" disponibilizado no Material de apoio.
 
 ## 3) Enviar o link do seu repositório através da plataforma. 
-
+<br>
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
